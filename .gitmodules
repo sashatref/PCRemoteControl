@@ -13,3 +13,6 @@
 [submodule "src/3rdparty/CustomWidgets"]
 	path = src/3rdparty/CustomWidgets
 	url = git@github.com:sashatref/CustomWidgets.git
+[submodule "src/3rdparty/PCRemoteControlFront"]
+	path = src/3rdparty/PCRemoteControlFront
+	url = git@github.com:sashatref/PCRemoteControlFront.git
