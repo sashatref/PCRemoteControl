@@ -16,3 +16,6 @@
 [submodule "src/3rdparty/PCRemoteControlFront"]
 	path = src/3rdparty/PCRemoteControlFront
 	url = git@github.com:sashatref/PCRemoteControlFront.git
+[submodule "src/3rdparty/HttpServer2"]
+	path = src/3rdparty/HttpServer2
+	url = git@github.com:sashatref/HttpServer2.git

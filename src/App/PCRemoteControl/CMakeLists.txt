@@ -41,6 +41,8 @@ target_link_libraries(${PROJECT_NAME}
 
 target_precompile_headers(${PROJECT_NAME} PRIVATE project_pch.h)
 
+install(TARGETS ${PROJECT_NAME} DESTINATION ".")
+
 aviaNames()
 makeAI()
 deployTr()
